@@ -1,0 +1,11 @@
+batch_id,product_id,product_name,category,quantity_on_hand,unit_cost,expiry_date
+B-APL-01,APL001,Apples,Produce,80,0.45,2026-10-22
+B-MLK-01,MLK001,Whole milk,Dairy,48,1.10,2026-10-21
+B-BRD-01,BRD001,Sourdough bread,Bakery,38,1.35,2026-10-21
+B-LET-01,LET001,Leaf lettuce,Produce,25,1.25,2026-10-20
+B-STW-01,STW001,Strawberries,Produce,18,2.20,2026-10-20
+B-YGT-01,YGT001,Plain yogurt,Dairy,42,0.72,2026-10-25
+B-TOM-01,TOM001,Cherry tomatoes,Produce,30,1.05,2026-10-23
+B-CHE-01,CHE001,Soft cheese,Dairy,16,2.80,2026-10-22
+B-BAN-01,BAN001,Bananas,Produce,36,0.38,2026-10-21
+B-EGG-01,EGG001,Free-range eggs,Dairy,24,0.22,2026-11-02
